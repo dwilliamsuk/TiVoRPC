@@ -27,3 +27,5 @@ python TiVoRPC.py
 You __NEED__ to create an application [here](https://discord.com/developers/applications/) and grab your client ID, then create an "Art Asset" that will be displayed next to your status.
 
 You __NEED__ to enable Network Remote Control in your TiVo settings. Google how to do this for your specific TiVo box.
+
+Thanks to David Newcomb for his [JSON Virgin Media Channel Listings](http://www.bigsoft.co.uk/tools/virgin-media-channel-finder)
