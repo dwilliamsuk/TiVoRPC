@@ -28,4 +28,4 @@ You __NEED__ to create an application [here](https://discord.com/developers/appl
 
 You __NEED__ to enable Network Remote Control in your TiVo settings. Google how to do this for your specific TiVo box.
 
-Thanks to David Newcomb for his [JSON Virgin Media Channel Listings](http://www.bigsoft.co.uk/tools/virgin-media-channel-finder)
+Thanks to [David Newcomb](https://github.com/davidnewcomb) for his [JSON Virgin Media Channel Listings](http://www.bigsoft.co.uk/tools/virgin-media-channel-finder)
