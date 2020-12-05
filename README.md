@@ -15,7 +15,7 @@ Edit config.json as follows:
 | ------ | ------ |
 | tivo_ip | Your TiVo Box IP |
 | client_id | Your RPC Client ID (Check Important Notes) |
-| large_image | RPC Art Asset To Use (Check Important Notes) |
+| large_image | RPC Art Asset Name To Use (Check Important Notes) |
 
 ## Usage
 
